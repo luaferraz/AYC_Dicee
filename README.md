@@ -4,7 +4,7 @@ A simple Dice Roller app
 
 
 <p align="center">
-  <img src="gif.gif" width="300">
+  <img src="gif.gif" width="200">
 </p>
 
 ## Learning Swift from [Dr. Angela Yu](https://github.com/angelabauer) course.
